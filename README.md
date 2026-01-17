@@ -4,4 +4,6 @@ Objectif faire le tour des fonctionnalités d'usage du package js et ces usage c
 Etape 1: Initier le projet node JS
  -> Ouvrir le terminal dans le fichier dedier au projet taper: npm init -y
  -> une fois le traitement achevé, toujours dans le terminal installer express: npm i express.
- -> pour reloader le server local installer nodemon: npm i nodemon
+ -> pour reloader le server local installer nodemon: npm i nodemon.
+
+ Les requetes sont testees sur le client POSTMAN: get-> http://localhost:8000/api/post.
